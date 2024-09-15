@@ -1,0 +1,1 @@
+{"author":{"id":"2ffa7f13e73c37fbcfcb70730557eded26d79380155a00ce91c434ef546b4eee"},"ops":[{"type":1,"timestamp":1726406431,"nonce":"zaTtbzSZdM4xW8qSp6M1OiRBUzM=","title":"Jira filesystem bridge","message":"Represent jira issues as local files and be able to manage and sync fs files with jire.","files":null}]}
